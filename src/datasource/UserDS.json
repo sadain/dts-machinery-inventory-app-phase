@@ -1,0 +1,59 @@
+[
+    {
+        "Id": 12002,
+        "RoleName": "Manager",
+        "UserName":"David",
+        "EmailId":"tes1@gmail.com",
+        "Password":"12345",
+        "FirstName":"Nametest 1",
+        "LastName":"lastname 1",
+        "CreatedBy": "David",
+        "CreatedAt": "VINET",
+        "UpdatedBy": "David",
+        "UpdatedAt": "VINET",
+        "Status": "Active"
+    },
+    {
+        "Id": 12002,
+        "RoleName": "Employee",
+        "UserName":"Hassan",
+        "EmailId":"test2@gmail.com",
+        "Password":"12345",
+        "FirstName":"Nametest 2",
+        "LastName":"lastname 2",
+        "CreatedBy": "Hassan",
+        "CreatedAt": "VINET",
+        "UpdatedBy": "Hassan",
+        "UpdatedAt": "VINET",
+        "Status": "Inactive"
+        
+    },
+    {
+        "Id": 12002,
+        "RoleName": "Marketing Manager",
+        "UserName":"Jennifer",
+        "EmailId":"test3@gmail.com",
+        "Password":"12345",
+        "FirstName":"Nametest 3",
+        "LastName":"lastname 3",
+        "CreatedBy": "Jennifer",
+        "CreatedAt": "VINET",
+        "UpdatedBy": "Jennifer",
+        "UpdatedAt": "VINET",
+        "Status": "Active"
+    },
+    {
+        "Id": 12002,
+        "RoleName": "Staff",
+        "UserName":"Alexander",
+        "EmailId":"test4@gmail.com",
+        "Password":"12345",
+        "FirstName":"Nametest 4",
+        "LastName":"lastname 4",
+        "CreatedBy": "Alexander",
+        "CreatedAt": "VINET",
+        "UpdatedBy": "Alexander",
+        "UpdatedAt": "VINET",
+        "Status": "Inactive"
+    }
+]
