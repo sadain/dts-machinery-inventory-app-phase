@@ -2,7 +2,6 @@
   "name": "dts-machinery-inventory-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://localhost/dtc-machinery/",
   "dependencies": {
     "@headlessui/react": "^1.7.13",
     "@syncfusion/ej2": "^19.4.48",
