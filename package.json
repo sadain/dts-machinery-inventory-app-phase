@@ -1,7 +1,8 @@
 {
   "name": "dts-machinery-inventory-app",
+  "homepage": " https://sadain.github.io/dts-machinery-inventory-app-phase",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@headlessui/react": "^1.7.13",
     "@syncfusion/ej2": "^19.4.48",
@@ -26,6 +27,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy" : "npm run build", 
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
